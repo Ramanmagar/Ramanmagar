@@ -1,8 +1,13 @@
 - 👋 I am a data scientist
+- 
 - 👀  I’m currently working on Machine Learning and Deep learning projects.
+- 
 - 🌱 I’m currently learning various machine learning techniques.
+- 
 - 💞️ I’m looking to collaborate on machine learning projects.
+- 
 - ✨  Ask me about Artificial Intelligence, DataScience, Chess.
+- 
 - 📫 How to reach me ramanmagar1998@gmail.com
 
 <!---
