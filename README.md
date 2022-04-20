@@ -1,14 +1,12 @@
--Hi there Raman Magar 👋
-I am Raman Magar from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest
-👨‍💻. I am passionate about building fully functional Machine Learning.
+-  🌱 Hi there Raman Magar 
+-  👋 I am Raman Magar from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest
+-  👨‍💻 I am passionate about building fully functional Machine Learning.
 
 I am skilled in Python | MySQL | Machine Learning | Deep Learning | NLP | Data Analysis | EDA | ML Engineering | Statistics | Excel | Tableau | Feature Enginggring.
-
-When I am not coding, I love listening music, watching movies and plyaing chess.
-- 
--  #Headlines
+ 
+--  #Headlines
 -   
--     👋 I am a data scientist
+- 👋 I am a data scientist
  
 - 👀  I’m currently working on Machine Learning and Deep learning projects.
  
