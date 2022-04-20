@@ -4,7 +4,7 @@
 
 I am skilled in Python | MySQL | Machine Learning | Deep Learning | NLP | Data Analysis | EDA | ML Engineering | Statistics | Excel | Tableau | Feature Enginggring.
  
---  #Headlines
+--  Headlines
 -   
 - 👋 I am a data scientist
  
