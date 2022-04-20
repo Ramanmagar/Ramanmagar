@@ -1,4 +1,4 @@
-  **Hi there Raman Magar 👋 **
+  **Hi there Raman Magar** 👋 
    
   I am Raman Magar from Pune, Maharashtra. I am a technology enthusiast, competent, well-focused Data Scientist Enthusiest
    
