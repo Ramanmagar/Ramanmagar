@@ -4,7 +4,7 @@
    
   I am passionate about working on Machine Learning Project.
 
-  I am skilled in Python, MySQL, Machine Learning, Deep Learning, NLP, Data Analysis, EDA, ML Engineering, Statistics, Excel, Tableau, Feature Enginggring.
+  I am skilled in Python, PostgreSQL, Machine Learning, Deep Learning, NLP, Data Analysis, EDA, ML Engineering, Statistics, Excel, Tableau.
  
   **Headlines**
   ----
