@@ -17,7 +17,7 @@
  
 - 💞️ I’m looking to collaborate on machine learning projects.
  
-- ✨  Ask me about Artificial Intelligence, DataScience, Chess.
+- ✨  Ask me about Artificial Intelligence, DataScience.
  
 - 📫 How to reach me ramanmagar1998@gmail.com
 
